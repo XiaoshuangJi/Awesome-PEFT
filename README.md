@@ -10,6 +10,7 @@
 |The Power of Scale for Parameter-Efficient Prompt Tuning| Prompt tuning|EMNLP 2021|[[PUB](https://aclanthology.org/2021.emnlp-main.243/)]|
 |Parameter-Efficient Transfer Learning with Diff Pruning|DiffPruning|ACL 2021|[[PUB](https://aclanthology.org/2021.acl-long.378/)]|
 |Compacter: Efficient low-rank hypercomplex adapter layers|Compacter|NeurIPS 2021|[[PDF](https://proceedings.neurips.cc/paper/2021/file/081be9fdff07f3bc808f935906ef70c0-Paper.pdf)][[CODE](https://github.com/rabeehk/compacter)]|
+|Training Neural Networks with Fixed Sparse Masks|Fish-Mask|NeurIPS 2021|[[PDF](https://proceedings.neurips.cc/paper/2021/file/cb2653f548f8709598e8b5156738cc51-Paper.pdf)][[CODE](https://github.com/varunnair18/FISH)]|
 |Towards a Unified View of Parameter-Efficient Transfer Learning|MAM Adapter, ParallelAdapter|ICLR 2022|[[PDF](https://xuezhemax.github.io/assets/publications/pdfs/iclr2022_towards.pdf)][[CODE](https://github.com/jxhe/unify-parameter-efficient-tuning)]|
 |UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning|UniPELT|ACL 2022|[[PUB](https://aclanthology.org/2022.acl-long.433/)]|
 |P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks|P-tuning v2|ACL 2022|[[PUB](https://aclanthology.org/2022.acl-short.8/)]|
@@ -22,11 +23,32 @@
 |Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR 2023|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
 |QLoRA: Efficient Finetuning of Quantized LLMs|QLoRA|NeurIPS 2023|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)][[CODE](https://github.com/artidoro/qlora)]|
 |Krona: Parameter efficient tuning with kronecker adapter|KronA|NeurIPS 2023|[[PDF](https://neurips2023-enlsp.github.io/papers/paper_61.pdf)]|
+|Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning|MPT|ICLR 2023|[[PUB](https://zhenwang9102.github.io/mpt.html)]|
 |GPT Understands, Too|P-tuning|AI Open 2024|[[PUB](https://www.sciencedirect.com/science/article/pii/S2666651023000141)]|
 |LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
 |Vector-based Random Matrix Adaptation|VeRA|ICLR 2024|[[PUB](https://dkopi.github.io/vera/)]|
 |LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR 2024|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE]](https://github.com/yxli2123/LoftQ)|
 |DoRA: Weight-Decomposed Low-Rank Adaptation|DoRA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=3d5CIRG1n2)][[CODE](https://github.com/NVlabs/DoRA)]|
 |RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation|RoSA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=FYvpxyS43U)][[CODE](https://github.com/IST-DASLab/RoSA)]|
+|MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL 2024|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
+|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML PMLR 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
+
+### PEFT with other techs
+
 ### Libraries
+* AdapterHub:
+  * Address: https://adapterhub.ml/
+  * Description: A Unified Library for Parameter-Efficient and Modular Transfer Learning
+* PEFT:
+  * Address: https://github.com/huggingface/peft
+  * Description: State-of-the-art Parameter-Efficient Fine-Tuning.
+<!--## Star History
+
+<a href="https://github.com/XiaoshuangJi/Awesome-PEFT&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=XiaoshuangJi/Awesome-PEFT&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=XiaoshuangJi/Awesome-PEFT&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=XiaoshuangJi/Awesome-PEFT&type=Date" />
+  </picture>
+</a>-->
