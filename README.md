@@ -35,7 +35,15 @@
 |ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 
 ### PEFT with other techs
-
+|Paper Title|Venue and Year|Materials|
+|------------------------------|------------------------------|------------------------------|
+|FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning|ICLR 2022|[[PDF](https://openreview.net/pdf?id=d71n4ftoCBy)][[CODE](https://github.com/South-hw/FedPara_ICLR22)]|
+|Efficient Federated Learning for Modern NLP|MobiCom 2023|[[PUB](https://dl.acm.org/doi/abs/10.1145/3570361.3592505)][[PDF](https://www.caidongqi.com/pdf/AutoFedNLP.pdf)][[CODE](https://github.com/UbiquitousLearning/FedAdapter)]|
+|FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models|ACL 2023|[[PUB](https://aclanthology.org/2023.findings-acl.632/)][[CODE](https://github.com/SMILELab-FL/FedPETuning)]|
+|Fine-Tuning Language Models with Just Forward Passes|NeurIPS 2023|[[PDF](https://arxiv.org/pdf/2305.17333)][[CODE](https://github.com/princeton-nlp/MeZO)]|
+|SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models|NeurIPS 2023|[[PDF](https://openreview.net/pdf?id=06quMTmtRV)]|
+|FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=TcCorXxNJQ)][[CODE](https://github.com/ATP-1010/FederatedLLM)]|
+|Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ICML PMLR 2024|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
