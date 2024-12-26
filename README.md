@@ -28,10 +28,12 @@
 |LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
 |Vector-based Random Matrix Adaptation|VeRA|ICLR 2024|[[PUB](https://dkopi.github.io/vera/)]|
 |LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR 2024|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE]](https://github.com/yxli2123/LoftQ)|
+|ReLoRA: High-Rank Training Through Low-Rank Updates|ReLoRA|ICLR 2024|[[PDF](https://openreview.net/pdf?id=DLJznSp6X3)][[CODE](https://github.com/guitaricet/relora)]|
 |DoRA: Weight-Decomposed Low-Rank Adaptation|DoRA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=3d5CIRG1n2)][[CODE](https://github.com/NVlabs/DoRA)]|
 |RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation|RoSA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=FYvpxyS43U)][[CODE](https://github.com/IST-DASLab/RoSA)]|
 |MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL 2024|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
 |Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML PMLR 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
+|VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks|VB-LoRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.15179)][[CODE](https://github.com/leo-yangli/VB-LoRA)]|
 |ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 
 ### PEFT with other techs
