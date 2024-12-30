@@ -41,6 +41,7 @@
 |Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML PMLR 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks|VB-LoRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.15179)][[CODE](https://github.com/leo-yangli/VB-LoRA)]|
 |Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation|HRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.17484)][[CODE](https://github.com/DaShenZi721/HRA)]|
+|PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models|PiSSA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.02948)][[CODE](https://github.com/GraphPKU/PiSSA)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 
