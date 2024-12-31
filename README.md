@@ -59,7 +59,7 @@
   * Address: https://adapterhub.ml/
   * Description: A Unified Library for Parameter-Efficient and Modular Transfer Learning
 * PEFT:
-  * Address: https://github.com/huggingface/peft
+  * Address: https://huggingface.co/docs/peft/index
   * Description: State-of-the-art Parameter-Efficient Fine-Tuning.
 <!--## Star History
 
