@@ -3,6 +3,7 @@
 |Paper Title|Proposed Method|Venue and Year|Materials|
 |------------------------------|------------------------------|------------------------------|------------------------------|
 |Parameter-Efficient Transfer Learning for NLP|Adapter tuning|ICML PMLR 2019|[[PUB](https://proceedings.mlr.press/v97/houlsby19a.html)][[CODE](https://github.com/google-research/adapter-bert)]|
+|Simple, Scalable Adaptation for Neural Machine Translation|Single Adapter|EMNLP 2019|[[PUB](https://aclanthology.org/D19-1165/)]|
 |Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning|VLM|EMNLP 2020|[[PUB](https://aclanthology.org/2020.findings-emnlp.41/)]|
 |AdapterFusion: Non-destructive task composition for transfer learning|AdapterFusion|EACL 2021|[[PUB](https://aclanthology.org/2021.eacl-main.39/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]|
 |AdapterDrop: On the efficiency of adapters in transformers|AdapterDrop|EMNLP 2021|[[PUB](https://aclanthology.org/2021.emnlp-main.626/)]|
