@@ -2,7 +2,7 @@
 ### Papers
 |Paper Title|Proposed Method|Venue and Year|Materials|
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|Parameter-Efficient Transfer Learning for NLP|Adapter tuning|ICML PMLR 2019|[[PUB](https://proceedings.mlr.press/v97/houlsby19a.html)][[CODE](https://github.com/google-research/adapter-bert)]|
+|Parameter-Efficient Transfer Learning for NLP|Adapter tuning|ICML 2019|[[PUB](https://proceedings.mlr.press/v97/houlsby19a.html)][[CODE](https://github.com/google-research/adapter-bert)]|
 |Simple, Scalable Adaptation for Neural Machine Translation|Single Adapter|EMNLP 2019|[[PUB](https://aclanthology.org/D19-1165/)]|
 |Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning|VLM|EMNLP 2020|[[PUB](https://aclanthology.org/2020.findings-emnlp.41/)]|
 |AdapterFusion: Non-destructive task composition for transfer learning|AdapterFusion|EACL 2021|[[PUB](https://aclanthology.org/2021.eacl-main.39/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]|
@@ -28,18 +28,18 @@
 |Controlling Text-to-Image Diffusion by Orthogonal Finetuning|OFT|NeurIPS 2023|[[PUB](https://oft.wyliu.com/)]|
 |Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning|MPT|ICLR 2023|[[PUB](https://zhenwang9102.github.io/mpt.html)]|
 |GPT Understands, Too|P-tuning|AI Open 2024|[[PUB](https://www.sciencedirect.com/science/article/pii/S2666651023000141)]|
-|LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
+|LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML 2024|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
 |Vector-based Random Matrix Adaptation|VeRA|ICLR 2024|[[PUB](https://dkopi.github.io/vera/)]|
 |Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning|LN tuning|ICLR 2024|[[PDF](https://openreview.net/pdf?id=YR3ETaElNK)]|
 |Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization|BOFT|ICLR 2024|[[PUB](https://boft.wyliu.com/)]|
 |Navigating Text-To-Image Customization: From LyCORIS Fine-Tuning to Model Evaluation|LyCORIS|ICLR 2024|[[PDF](https://arxiv.org/pdf/2309.14859)][[CODE](https://github.com/KohakuBlueleaf/LyCORIS)]|
 |LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR 2024|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE]](https://github.com/yxli2123/LoftQ)|
 |ReLoRA: High-Rank Training Through Low-Rank Updates|ReLoRA|ICLR 2024|[[PDF](https://openreview.net/pdf?id=DLJznSp6X3)][[CODE](https://github.com/guitaricet/relora)]|
-|DoRA: Weight-Decomposed Low-Rank Adaptation|DoRA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=3d5CIRG1n2)][[CODE](https://github.com/NVlabs/DoRA)]|
-|RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation|RoSA|ICML PMLR 2024|[[PDF](https://openreview.net/pdf?id=FYvpxyS43U)][[CODE](https://github.com/IST-DASLab/RoSA)]|
-|Parameter-Efficient Fine-Tuning with Discrete Fourier Transform|FourierFT|ICML PMLR 2024|[[PDF](https://arxiv.org/pdf/2405.03003)][[CODE](https://github.com/Chaos96/fourierft)]|
+|DoRA: Weight-Decomposed Low-Rank Adaptation|DoRA|ICML 2024|[[PDF](https://openreview.net/pdf?id=3d5CIRG1n2)][[CODE](https://github.com/NVlabs/DoRA)]|
+|RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation|RoSA|ICML 2024|[[PDF](https://openreview.net/pdf?id=FYvpxyS43U)][[CODE](https://github.com/IST-DASLab/RoSA)]|
+|Parameter-Efficient Fine-Tuning with Discrete Fourier Transform|FourierFT|ICML 2024|[[PDF](https://arxiv.org/pdf/2405.03003)][[CODE](https://github.com/Chaos96/fourierft)]|
 |MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL 2024|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
-|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML PMLR 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
+|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks|VB-LoRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.15179)][[CODE](https://github.com/leo-yangli/VB-LoRA)]|
 |Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation|HRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.17484)][[CODE](https://github.com/DaShenZi721/HRA)]|
 |PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models|PiSSA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.02948)][[CODE](https://github.com/GraphPKU/PiSSA)]|
@@ -54,7 +54,7 @@
 |Fine-Tuning Language Models with Just Forward Passes|NeurIPS 2023|[[PDF](https://arxiv.org/pdf/2305.17333)][[CODE](https://github.com/princeton-nlp/MeZO)]|
 |SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models|NeurIPS 2023|[[PDF](https://openreview.net/pdf?id=06quMTmtRV)]|
 |FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=TcCorXxNJQ)][[CODE](https://github.com/ATP-1010/FederatedLLM)]|
-|Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ICML PMLR 2024|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
+|Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ICML 2024|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
