@@ -40,6 +40,7 @@
 |Parameter-Efficient Fine-Tuning with Discrete Fourier Transform|FourierFT|ICML 2024|[[PDF](https://arxiv.org/pdf/2405.03003)][[CODE](https://github.com/Chaos96/fourierft)]|
 |MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL 2024|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
 |Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
+|S2FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity|S2FT|NeurIPS 2024|[[PUB](https://infini-ai-lab.github.io/S2FT-Page/)]|
 |VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks|VB-LoRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.15179)][[CODE](https://github.com/leo-yangli/VB-LoRA)]|
 |Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation|HRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.17484)][[CODE](https://github.com/DaShenZi721/HRA)]|
 |PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models|PiSSA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.02948)][[CODE](https://github.com/GraphPKU/PiSSA)]|
