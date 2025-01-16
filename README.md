@@ -24,7 +24,7 @@
 |Adamix: Mixture-of adapter for parameter-efficient tuning of large language models|Adamix|-----|[[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/Mixture_of_Adapters-628fa6a57efd3.pdf)][[CODE](https://github.com/microsoft/AdaMix)]|
 |Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR 2023|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
 |QLoRA: Efficient Finetuning of Quantized LLMs|QLoRA|NeurIPS 2023|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)][[CODE](https://github.com/artidoro/qlora)]|
-|Krona: Parameter efficient tuning with kronecker adapter|KronA|NeurIPS 2023|[[PDF](https://neurips2023-enlsp.github.io/papers/paper_61.pdf)]|
+|Krona: Parameter efficient tuning with kronecker adapter|KronA|NeurIPS 2023 Workshop|[[PDF](https://neurips2023-enlsp.github.io/papers/paper_61.pdf)]|
 |Controlling Text-to-Image Diffusion by Orthogonal Finetuning|OFT|NeurIPS 2023|[[PUB](https://oft.wyliu.com/)]|
 |Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning|MPT|ICLR 2023|[[PUB](https://zhenwang9102.github.io/mpt.html)]|
 |GPT Understands, Too|P-tuning|AI Open 2024|[[PUB](https://www.sciencedirect.com/science/article/pii/S2666651023000141)]|
