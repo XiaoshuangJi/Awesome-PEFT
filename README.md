@@ -19,7 +19,7 @@
 |FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning|LoHa|ICLR 2022|[[PDF](https://openreview.net/pdf?id=d71n4ftoCBy)][[CODE](https://github.com/South-hw/FedPara_ICLR22)]|
 |LoRA: Low-Rank Adaptation of Large Language Models|LoRA|ICLR 2022|[[PDF](https://openreview.net/pdf?id=nZeVKeeFYf9)][[CODE](https://github.com/microsoft/LoRA)]|
 |Efficient Fine-Tuning of BERT Models on the Edge|FAR|ISCAS 2022|[[PUB](https://ieeexplore.ieee.org/abstract/document/9937567)][[PDF](https://arxiv.org/pdf/2205.01541)]|
-|SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters|SparseAdapter|EMNLP 2022|[[PUB](https://aclanthology.org/2022.findings-emnlp.160/)][[CODE](https://github.com/Shwai-He/SparseAdapter)]|
+|SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters|SparseAdapter|EMNLP 2022 Finding|[[PUB](https://aclanthology.org/2022.findings-emnlp.160/)][[CODE](https://github.com/Shwai-He/SparseAdapter)]|
 |Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning|(IA)<SUP>3<SUP/>|NeurIPS 2022|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html)][[CODE](https://github.com/r-three/t-few)]|
 |Adamix: Mixture-of adapter for parameter-efficient tuning of large language models|Adamix|-----|[[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/Mixture_of_Adapters-628fa6a57efd3.pdf)][[CODE](https://github.com/microsoft/AdaMix)]|
 |Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR 2023|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
