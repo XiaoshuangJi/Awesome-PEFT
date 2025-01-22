@@ -4,7 +4,7 @@
 |------------------------------|------------------------------|------------------------------|------------------------------|
 |Parameter-Efficient Transfer Learning for NLP|Adapter tuning|ICML 2019|[[PUB](https://proceedings.mlr.press/v97/houlsby19a.html)][[CODE](https://github.com/google-research/adapter-bert)]|
 |Simple, Scalable Adaptation for Neural Machine Translation|Single Adapter|EMNLP 2019|[[PUB](https://aclanthology.org/D19-1165/)]|
-|Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning|VLM|EMNLP 2020|[[PUB](https://aclanthology.org/2020.findings-emnlp.41/)]|
+|Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning|VLM|EMNLP 2020 Findings|[[PUB](https://aclanthology.org/2020.findings-emnlp.41/)]|
 |AdapterFusion: Non-destructive task composition for transfer learning|AdapterFusion|EACL 2021|[[PUB](https://aclanthology.org/2021.eacl-main.39/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]|
 |AdapterDrop: On the efficiency of adapters in transformers|AdapterDrop|EMNLP 2021|[[PUB](https://aclanthology.org/2021.emnlp-main.626/)]|
 |Prefix-Tuning: Optimizing Continuous Prompts for Generation|Prefix tuning|ACL 2021|[[PDF](https://xiangli1999.github.io/pdf/prefix_tuning.pdf)][[CODE](https://github.com/XiangLi1999/PrefixTuning)]|
@@ -19,7 +19,7 @@
 |FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning|LoHa|ICLR 2022|[[PDF](https://openreview.net/pdf?id=d71n4ftoCBy)][[CODE](https://github.com/South-hw/FedPara_ICLR22)]|
 |LoRA: Low-Rank Adaptation of Large Language Models|LoRA|ICLR 2022|[[PDF](https://openreview.net/pdf?id=nZeVKeeFYf9)][[CODE](https://github.com/microsoft/LoRA)]|
 |Efficient Fine-Tuning of BERT Models on the Edge|FAR|ISCAS 2022|[[PUB](https://ieeexplore.ieee.org/abstract/document/9937567)][[PDF](https://arxiv.org/pdf/2205.01541)]|
-|SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters|SparseAdapter|EMNLP 2022 Finding|[[PUB](https://aclanthology.org/2022.findings-emnlp.160/)][[CODE](https://github.com/Shwai-He/SparseAdapter)]|
+|SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters|SparseAdapter|EMNLP 2022 Findings|[[PUB](https://aclanthology.org/2022.findings-emnlp.160/)][[CODE](https://github.com/Shwai-He/SparseAdapter)]|
 |Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning|(IA)<SUP>3<SUP/>|NeurIPS 2022|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html)][[CODE](https://github.com/r-three/t-few)]|
 |Adamix: Mixture-of adapter for parameter-efficient tuning of large language models|Adamix|-----|[[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/Mixture_of_Adapters-628fa6a57efd3.pdf)][[CODE](https://github.com/microsoft/AdaMix)]|
 |Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR 2023|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
@@ -51,7 +51,7 @@
 |Paper Title|Venue and Year|Materials|
 |------------------------------|------------------------------|------------------------------|
 |Efficient Federated Learning for Modern NLP|MobiCom 2023|[[PUB](https://dl.acm.org/doi/abs/10.1145/3570361.3592505)][[PDF](https://www.caidongqi.com/pdf/AutoFedNLP.pdf)][[CODE](https://github.com/UbiquitousLearning/FedAdapter)]|
-|FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models|ACL 2023|[[PUB](https://aclanthology.org/2023.findings-acl.632/)][[CODE](https://github.com/SMILELab-FL/FedPETuning)]|
+|FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models|ACL 2023 Findings|[[PUB](https://aclanthology.org/2023.findings-acl.632/)][[CODE](https://github.com/SMILELab-FL/FedPETuning)]|
 |Fine-Tuning Language Models with Just Forward Passes|NeurIPS 2023|[[PDF](https://arxiv.org/pdf/2305.17333)][[CODE](https://github.com/princeton-nlp/MeZO)]|
 |SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models|NeurIPS 2023|[[PDF](https://openreview.net/pdf?id=06quMTmtRV)]|
 |FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=TcCorXxNJQ)][[CODE](https://github.com/ATP-1010/FederatedLLM)]|
