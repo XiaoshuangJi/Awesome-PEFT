@@ -49,6 +49,7 @@
 |One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
+|MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL 2025|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
 |ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 
 ### PEFT with other techs
