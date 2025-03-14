@@ -46,11 +46,11 @@
 |PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models|PiSSA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.02948)][[CODE](https://github.com/GraphPKU/PiSSA)]|
 |CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning|CorDA|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=Gi00NVru6n)][[CODE](https://github.com/iboing/CorDA)]|
 |LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=VaLAWrLHJv)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
+|ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 |One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL 2025|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
-|ReFT: Representation Finetuning for Language Models|ReFT|-----|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 
 ### PEFT with other techs
 |Paper Title|Venue and Year|Materials|
