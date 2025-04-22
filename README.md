@@ -60,7 +60,9 @@
 |FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models|ACL 2023 Findings|[[PUB](https://aclanthology.org/2023.findings-acl.632/)][[CODE](https://github.com/SMILELab-FL/FedPETuning)]|
 |Fine-Tuning Language Models with Just Forward Passes|NeurIPS 2023|[[PDF](https://arxiv.org/pdf/2305.17333)][[CODE](https://github.com/princeton-nlp/MeZO)]|
 |SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models|NeurIPS 2023|[[PDF](https://openreview.net/pdf?id=06quMTmtRV)]|
+|LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|COLM 2024|[[PDF](https://arxiv.org/pdf/2307.13269)][[CODE](https://github.com/sail-sg/lorahub)]|
 |FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=TcCorXxNJQ)][[CODE](https://github.com/ATP-1010/FederatedLLM)]|
+|Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning|ICLR 2024|[[PDF](https://openreview.net/pdf?id=EvDeiLv7qc)][[CODE](https://github.com/Cohere-Labs-Community/parameter-efficient-moe)]|
 |FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences|USENIX ATC 2024|[[PUB](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)]|
 |Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ICML 2024|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
 ### Libraries
