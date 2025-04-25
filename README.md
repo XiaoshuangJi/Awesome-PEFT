@@ -62,6 +62,7 @@
 |SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models|NeurIPS 2023|[[PDF](https://openreview.net/pdf?id=06quMTmtRV)]|
 |LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|COLM 2024|[[PDF](https://arxiv.org/pdf/2307.13269)][[CODE](https://github.com/sail-sg/lorahub)]|
 |FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=TcCorXxNJQ)][[CODE](https://github.com/ATP-1010/FederatedLLM)]|
+|Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources|FlexLoRA|NeurIPS 2024|[PDF(https://arxiv.org/pdf/2402.11505)]|
 |Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning|ICLR 2024|[[PDF](https://openreview.net/pdf?id=EvDeiLv7qc)][[CODE](https://github.com/Cohere-Labs-Community/parameter-efficient-moe)]|
 |FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences|USENIX ATC 2024|[[PUB](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)]|
 |Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ICML 2024|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
