@@ -30,7 +30,7 @@
 |GPT Understands, Too|P-tuning|AI Open 2024|[[PUB](https://www.sciencedirect.com/science/article/pii/S2666651023000141)]|
 |LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML 2024|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
 |Vector-based Random Matrix Adaptation|VeRA|ICLR 2024|[[PUB](https://dkopi.github.io/vera/)]|
-|Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning|LN tuning|ICLR 2024|[[PDF](https://openreview.net/pdf?id=YR3ETaElNK)]|
+|Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning|LN tuning|ICLR 2024|[[PDF][https://openreview.net/pdf?id=YR3ETaElNK]|
 |Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization|BOFT|ICLR 2024|[[PUB](https://boft.wyliu.com/)]|
 |Navigating Text-To-Image Customization: From LyCORIS Fine-Tuning to Model Evaluation|LyCORIS|ICLR 2024|[[PDF](https://arxiv.org/pdf/2309.14859)][[CODE](https://github.com/KohakuBlueleaf/LyCORIS)]|
 |LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR 2024|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE]](https://github.com/yxli2123/LoftQ)|
