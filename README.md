@@ -52,6 +52,7 @@
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL 2025|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
+|HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR 2025|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
 
 ### PEFT with other techs
 |Paper Title|Venue and Year|Materials|
