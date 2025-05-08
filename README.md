@@ -74,6 +74,9 @@
 * PEFT:
   * Address: https://huggingface.co/docs/peft/index
   * Description: State-of-the-art Parameter-Efficient Fine-Tuning.
+* LLM-Adapters:
+  * Address: https://github.com/AGI-Edgerunners/LLM-Adapters
+  * Description: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
 <!--## Star History
 
 <a href="https://github.com/XiaoshuangJi/Awesome-PEFT&Date">
