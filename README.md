@@ -16,7 +16,7 @@
 |UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning|UniPELT|ACL 2022|[[PUB](https://aclanthology.org/2022.acl-long.433/)]|
 |P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks|P-tuning v2|ACL 2022|[[PUB](https://aclanthology.org/2022.acl-short.8/)]|
 |BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models|BitFit|ACL 2022|[[PUB](https://aclanthology.org/2022.acl-short.1/)]|
-|FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning|LoHa|ICLR 2022|[[PDF](https://openreview.net/pdf?id=d71n4ftoCBy)][[CODE](https://github.com/South-hw/FedPara_ICLR22)]|
+|FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning|FedPara|ICLR 2022|[[PDF](https://openreview.net/pdf?id=d71n4ftoCBy)][[CODE](https://github.com/South-hw/FedPara_ICLR22)]|
 |LoRA: Low-Rank Adaptation of Large Language Models|LoRA|ICLR 2022|[[PDF](https://openreview.net/pdf?id=nZeVKeeFYf9)][[CODE](https://github.com/microsoft/LoRA)]|
 |Efficient Fine-Tuning of BERT Models on the Edge|FAR|ISCAS 2022|[[PUB](https://ieeexplore.ieee.org/abstract/document/9937567)][[PDF](https://arxiv.org/pdf/2205.01541)]|
 |SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters|SparseAdapter|EMNLP 2022 Findings|[[PUB](https://aclanthology.org/2022.findings-emnlp.160/)][[CODE](https://github.com/Shwai-He/SparseAdapter)]|
