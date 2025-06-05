@@ -50,9 +50,13 @@
 |ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 |One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
+|ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models|ALoRA|NAACL 2024|[[PDF](https://aclanthology.org/2024.naacl-long.35.pdf)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL 2025|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
 |HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR 2025|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
+|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL 2025|[[PDF](https://arxiv.org/pdf/2502.13604)]|
+|LoRA-Pro: Are Low-Rank Adapters Properly Optimized?|LoRA-Pro|ICLR 2025|[[PDF](https://openreview.net/pdf?id=gTwRMU3lJ5)]|
+
 
 ### PEFT with other techs
 |Paper Title|Venue and Year|Materials|
