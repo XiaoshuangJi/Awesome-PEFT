@@ -81,6 +81,9 @@
 * LLM-Adapters:
   * Address: https://github.com/AGI-Edgerunners/LLM-Adapters
   * Description: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
+* LLaMA-Factory:
+  * Address: https://github.com/hiyouga/LLaMA-Factory
+  * Description: Easily fine-tune 100+ large language models with zero-code CLI and Web UI
 <!--## Star History
 
 <a href="https://github.com/XiaoshuangJi/Awesome-PEFT&Date">
