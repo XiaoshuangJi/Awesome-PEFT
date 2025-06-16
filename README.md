@@ -56,6 +56,7 @@
 |HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR 2025|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
 |BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL 2025|[[PDF](https://arxiv.org/pdf/2502.13604)]|
 |LoRA-Pro: Are Low-Rank Adapters Properly Optimized?|LoRA-Pro|ICLR 2025|[[PDF](https://openreview.net/pdf?id=gTwRMU3lJ5)]|
+|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL 2025 Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 
 
 ### PEFT with other techs
