@@ -39,6 +39,7 @@
 |PILLOW: Enhancing Efficient Instruction Fine-tuning via Prompt Matching|PILLOW|EMNLP 2023 Industry Track|[[PDF](https://aclanthology.org/2023.emnlp-industry.45.pdf)]|
 |Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices|Delta-LoRA|arXiv|[[PDF](https://arxiv.org/pdf/2309.02411)]|
 |LoRA-FA: Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning|LoRA-FA|arXiv|[[PDF](https://arxiv.org/pdf/2308.03303)]|
+|A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA|rsLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2312.03732)]|
 |IncreLoRA: Incremental Parameter Allocation Method for Parameter-Efficient Fine-tuning|IncreLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2308.12043)][[CODE](https://github.com/FeiyuZhang98/IncreLoRA)]|
 |MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL 2024|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
 |Multimodal Instruction Tuning with Conditional Mixture of LoRA|MixLoRA|ACL 2024|[[PDF](https://aclanthology.org/2024.acl-long.38.pdf)]|
@@ -75,6 +76,7 @@
 |CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning|CorDA|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=Gi00NVru6n)][[CODE](https://github.com/iboing/CorDA)]|
 |LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=VaLAWrLHJv)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
+|LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS 2024|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/62c4718cc334f6a0a62fb81c4a2095a1-Paper-Conference.pdf)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models|ALoRA|NAACL 2024|[[PDF](https://aclanthology.org/2024.naacl-long.35.pdf)]|
