@@ -73,7 +73,6 @@
 |SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS 2024 Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models|ALoRA|NAACL 2024|[[PDF](https://aclanthology.org/2024.naacl-long.35.pdf)]|
 |AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning|AutoLoRA|NAACL 2024|[[PDF](https://aclanthology.org/2024.naacl-long.282.pdf)][[CODE](https://github.com/ruz048/AutoLoRA)]|
-|LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|Lorahub|COLM 2024|[[PDF](https://openreview.net/pdf?id=TrloAXEJ2B)]|
 |X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning 2024|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models|BiLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2403.13037)]|
 |ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization|ComPEFT|arXiv|[[PDF](https://arxiv.org/pdf/2311.13171)][[CODE](https://github.com/prateeky2806/compeft)]|
