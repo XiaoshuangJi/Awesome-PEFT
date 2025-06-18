@@ -69,6 +69,7 @@
 |Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML 2024|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning|HydraLoRA|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=qEpi8uWX3N)][[CODE](https://github.com/Clin0212/HydraLoRA)]|
 |S2FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity|S2FT|NeurIPS 2024|[[PUB](https://infini-ai-lab.github.io/S2FT-Page/)]|
+|LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning|LISA|NeurIPS 2024|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/687163285b8affc8ee933bdca8e75747-Paper-Conference.pdf)]|
 |DropBP: Accelerating Fine-Tuning of Large Language Models by Dropping Backward Propagation|DropBP|NeurIPS 2024|[[PDF](https://openreview.net/pdf?id=x4EoTQW7ka)][[CODE](https://github.com/WooSunghyeon/dropbp)]|
 |VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks|VB-LoRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.15179)][[CODE](https://github.com/leo-yangli/VB-LoRA)]|
 |Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation|HRA|NeurIPS 2024|[[PDF](https://arxiv.org/pdf/2405.17484)][[CODE](https://github.com/DaShenZi721/HRA)]|
