@@ -51,7 +51,7 @@
 |2024|LoRA Meets Dropout under a Unified Framework|HiddenKey|ACL Finding|[[PDF](https://aclanthology.org/2024.findings-acl.119.pdf)]|
 |2024|LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning|LoRAPrune|ACL Finding|[[PDF](https://aclanthology.org/2024.findings-acl.178.pdf)][[CODE](https://github.com/aim-uofa/LoRAPrune)]|
 |2024|GPT Understands, Too|P-tuning|AI Open|[[PUB](https://www.sciencedirect.com/science/article/pii/S2666651023000141)]|
-|2024|Vector-based Random Matrix Adaptation|VeRA|ICLR|[[PUB](https://dkopi.github.io/vera/)]|
+|2024|VeRA: Vector-based Random Matrix Adaptation|VeRA|ICLR|[[PUB](https://dkopi.github.io/vera/)]|
 |2024|Parameter-Efficient Multi-Task Model Fusion with Partial Linearization|L-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=iynRvVVAmH)]|
 |2024|Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning|LN tuning|ICLR|[[PDF](https://openreview.net/pdf?id=YR3ETaElNK)]|
 |2024|Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization|BOFT|ICLR|[[PUB](https://boft.wyliu.com/)]|
