@@ -94,6 +94,8 @@
 |MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL 2025|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
 |HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR 2025|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
 |LoRA-Pro: Are Low-Rank Adapters Properly Optimized?|LoRA-Pro|ICLR 2025|[[PDF](https://openreview.net/pdf?id=gTwRMU3lJ5)]|
+|LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization|LoRA-RITE|ICLR 2025|[[PDF](https://openreview.net/pdf?id=VpWki1v2P8)]|
+|SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning|SD-LoRA|ICLR 2025|[[PDF](https://openreview.net/pdf?id=5U1rlpX68A)][[CODE](https://github.com/WuYichen-97/SD-Lora-CL)]|
 |BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL 2025|[[PDF](https://arxiv.org/pdf/2502.13604)]|
 |LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL 2025 Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING 2025|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
