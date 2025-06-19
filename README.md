@@ -93,6 +93,7 @@
 |2025|HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
 |2025|LoRA-Pro: Are Low-Rank Adapters Properly Optimized?|LoRA-Pro|ICLR|[[PDF](https://openreview.net/pdf?id=gTwRMU3lJ5)]|
 |2025|LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization|LoRA-RITE|ICLR|[[PDF](https://openreview.net/pdf?id=VpWki1v2P8)]|
+|2025|ComLoRA: A Competitive Learning Approach for Enhancing LoRA|ComLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=jFcNXJGPGh)]|
 |2025|SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning|SD-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=5U1rlpX68A)][[CODE](https://github.com/WuYichen-97/SD-Lora-CL)]|
 |2025|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL|[[PDF](https://arxiv.org/pdf/2502.13604)]|
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
