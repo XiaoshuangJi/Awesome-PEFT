@@ -131,7 +131,7 @@
 |2024|Higher layers need more LoRA experts|MoLA|arXiv|[[PDF](https://arxiv.org/pdf/2402.08562)][[[CODE](https://github.com/GCYZSL/MoLA)]|
 |2024|LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs|LLaVA-MoLE|arXiv|[[PDF](https://arxiv.org/pdf/2401.16160)]|
 |2024|FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition|FeDeRA|arXiv|[[PDF](https://arxiv.org/pdf/2404.18848)]|
-|2025|Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning|DP-LoRA|ACM TMIS 2025|[[PDF](https://dl.acm.org/doi/pdf/10.1145/3682068)]|
+|2025|Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning|DP-LoRA|ACM TMIS|[[PDF](https://dl.acm.org/doi/pdf/10.1145/3682068)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
