@@ -96,6 +96,8 @@
 |2025|ComLoRA: A Competitive Learning Approach for Enhancing LoRA|ComLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=jFcNXJGPGh)]|
 |2025|RaSA: Rank-Sharing Low-Rank Adaptation|RaSA|ICLR|[[PDF](https://openreview.net/pdf?id=GdXI5zCoAt)][[CODE](https://github.com/zwhe99/RaSA)]|
 |2025|Quantum-PEFT: Ultra parameter-efficient fine-tuning|Quantum-PEFT|ICLR|[[PDF](https://openreview.net/pdf?id=dgR6i4TSng)]|
+|2025|SMT: Fine-Tuning Large Language Models with Sparse Matrices|SMT|ICLR|[[PDF](https://openreview.net/pdf?id=GbgCRJedQ7)]|
+|2025|KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models|KaSA|ICLR|[[PDF](https://openreview.net/pdf?id=OQqNieeivq)][[CODE](https://github.com/juyongjiang/KaSA)]|
 |2025|GeoLoRA: Geometric integration for parameter efficient fine-tuning|GeoLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=bsFWJ0Kget)][[CODE](https://github.com/ScSteffen/Publication-GeoLoRA-Geometric-integration-for-parameter-efficient-fine-tuning)]|
 |2025|SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning|SD-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=5U1rlpX68A)][[CODE](https://github.com/WuYichen-97/SD-Lora-CL)]|
 |2025|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL|[[PDF](https://arxiv.org/pdf/2502.13604)]|
