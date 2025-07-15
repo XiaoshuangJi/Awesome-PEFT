@@ -117,6 +117,10 @@
 |2025|SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression|SLiM|ICML|[[PDF](https://openreview.net/pdf?id=4UfRP8MopP)]|
 |2025|Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape|Flat-LoRA|ICML|[[PDF](https://openreview.net/pdf?id=3Qj3xSwN2I)][[CODE](https://github.com/nblt/Flat-LoRA)]|
 |2025|BSLoRA: Enhancing the Parameter Efficiency of LoRA with Intra-Layer and Inter-Layer Sharing|BSLoRA|ICML|[[PDF](https://openreview.net/pdf?id=IXYBuwCOMl)][[CODE](https://github.com/yuhua-zhou/BSLoRA)]|
+|2025|SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning|SeedLoRA|ICML|[[PDF](https://openreview.net/pdf?id=7QH48TtFZX)][[CODE](https://github.com/NUS-HPC-AI-Lab/SeedLoRA)]|
+|2025|Text-to-LoRA: Instant Transformer Adaption|Text-to-LoRA|ICML|[[PDF](https://openreview.net/pdf?id=zWskCdu3QA)][[CODE](https://github.com/SakanaAI/text-to-lora)]|
+|2025|LoRA-Gen: Specializing Large Language Model via Online LoRA Generation|LoRA-Gen|ICML|[[PDF](https://openreview.net/pdf?id=oZM5g4IvmS)]|
+|2025|RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts|RepLoRA|ICML|[[PDF](https://openreview.net/pdf?id=Sg8ZqQ9J6W)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
@@ -150,6 +154,8 @@
 |2024|FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition|FeDeRA|arXiv|[[PDF](https://arxiv.org/pdf/2404.18848)]|
 |2025|Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning|DP-LoRA|ACM TMIS|[[PDF](https://dl.acm.org/doi/pdf/10.1145/3682068)]|
 |2025|Federated Residual Low-Rank Adaptation of Large Language Models|FRLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=e0rQRMUhs7)]|
+|2025|A Stronger Mixture of Low-Rank Experts for Fine-Tuning Foundation Models|MoELoRA_Riemannian|ICML|[[PDF](https://openreview.net/pdf?id=yqyEUcGreT)][[CODE](https://github.com/THUDM/MoELoRA_Riemannian)]|
+|2025|IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models|IntLoRA|ICML|[[PDF](https://openreview.net/pdf?id=K3QoqobsiR)][[CODE](https://github.com/csguoh/IntLoRA)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
