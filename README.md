@@ -111,6 +111,12 @@
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |2025|LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
 |2025|Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment|GOAT|ICML|[[PDF](https://arxiv.org/pdf/2502.16894)][[CODE](https://github.com/Facico/GOAT-PEFT)]|
+|2025|LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large Language Models, Provably and Efficiently|LoRA-One|ICML|[[PDF](https://openreview.net/pdf?id=KwIlvmLDLm)][[CODE](https://github.com/YuanheZ/LoRA-One)]|
+|2025|SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity|SparseLoRA|ICML|[[PDF](https://openreview.net/pdf?id=z83rodY0Pw)]|
+|2025|LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits|LowRA|ICML|[[PDF](https://openreview.net/pdf?id=Fm0nDMKBwC)]|
+|2025|SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression|SLiM|ICML|[[PDF](https://openreview.net/pdf?id=4UfRP8MopP)]|
+|2025|Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape|Flat-LoRA|ICML|[[PDF](https://openreview.net/pdf?id=3Qj3xSwN2I)][[CODE](https://github.com/nblt/Flat-LoRA)]|
+|2025|BSLoRA: Enhancing the Parameter Efficiency of LoRA with Intra-Layer and Inter-Layer Sharing|BSLoRA|ICML|[[PDF](https://openreview.net/pdf?id=IXYBuwCOMl)][[CODE](https://github.com/yuhua-zhou/BSLoRA)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
@@ -144,12 +150,6 @@
 |2024|FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition|FeDeRA|arXiv|[[PDF](https://arxiv.org/pdf/2404.18848)]|
 |2025|Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning|DP-LoRA|ACM TMIS|[[PDF](https://dl.acm.org/doi/pdf/10.1145/3682068)]|
 |2025|Federated Residual Low-Rank Adaptation of Large Language Models|FRLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=e0rQRMUhs7)]|
-|2025|LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large Language Models, Provably and Efficiently|LoRA-One|ICML|[[PDF](https://openreview.net/pdf?id=KwIlvmLDLm)][[CODE](https://github.com/YuanheZ/LoRA-One)]|
-|2025|SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity|SparseLoRA|ICML|[[PDF](https://openreview.net/pdf?id=z83rodY0Pw)]|
-|2025|LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits|LowRA|ICML|[[PDF](https://openreview.net/pdf?id=Fm0nDMKBwC)]|
-|2025|SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression|SLiM|ICML|[[PDF](https://openreview.net/pdf?id=4UfRP8MopP)]|
-|2025|Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape|Flat-LoRA|ICML|[[PDF](https://openreview.net/pdf?id=3Qj3xSwN2I)][[CODE](https://github.com/nblt/Flat-LoRA)]|
-|2025|BSLoRA: Enhancing the Parameter Efficiency of LoRA with Intra-Layer and Inter-Layer Sharing|BSLoRA|ICML|[[PDF](https://openreview.net/pdf?id=IXYBuwCOMl)][[CODE](https://github.com/yuhua-zhou/BSLoRA)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
