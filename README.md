@@ -89,6 +89,7 @@
 |2024|CaraServe: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference|CaraServe|arXiv|[[PDF](https://arxiv.org/pdf/2401.11240)]|
 |2024|L4Q: Parameter Efficient Quantization-Aware Fine-Tuning on Large Language Models|L4Q|arXiv|[[PDF](https://arxiv.org/pdf/2402.04902)]|
 |2024|ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization|ComPEFT|arXiv|[[PDF](https://arxiv.org/pdf/2311.13171)][[CODE](https://github.com/prateeky2806/compeft)]|
+|2024|S-LoRA: Serving Thousands of Concurrent LoRA Adapters|-LoRA|MLSys|[[PDF](https://arxiv.org/pdf/2311.03285v3)][[CODE](https://github.com/S-LoRA/S-LoRA)]|
 |2025|MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning|MiLoRA|NAACL|[[PDF](https://arxiv.org/pdf/2406.09044)][[CODE](https://github.com/sufenlp/MiLoRA)]|
 |2025|HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models|HiRA|ICLR|[[PDF](https://openreview.net/pdf?id=TwJrTz9cRS)][[CODE](https://github.com/hqsiswiliam/hira)]|
 |2025|LoRA-Pro: Are Low-Rank Adapters Properly Optimized?|LoRA-Pro|ICLR|[[PDF](https://openreview.net/pdf?id=gTwRMU3lJ5)]|
@@ -121,6 +122,7 @@
 |2025|Text-to-LoRA: Instant Transformer Adaption|Text-to-LoRA|ICML|[[PDF](https://openreview.net/pdf?id=zWskCdu3QA)][[CODE](https://github.com/SakanaAI/text-to-lora)]|
 |2025|LoRA-Gen: Specializing Large Language Model via Online LoRA Generation|LoRA-Gen|ICML|[[PDF](https://openreview.net/pdf?id=oZM5g4IvmS)]|
 |2025|RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts|RepLoRA|ICML|[[PDF](https://openreview.net/pdf?id=Sg8ZqQ9J6W)]|
+|2025|mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs|mLoRA|VLDB|[[PDF](https://arxiv.org/pdf/2312.02515)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
