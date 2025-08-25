@@ -122,6 +122,7 @@
 |2025|LoRA-Gen: Specializing Large Language Model via Online LoRA Generation|LoRA-Gen|ICML|[[PDF](https://openreview.net/pdf?id=oZM5g4IvmS)]|
 |2025|RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts|RepLoRA|ICML|[[PDF](https://openreview.net/pdf?id=Sg8ZqQ9J6W)]|
 |2025|mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs|mLoRA|VLDB|[[PDF](https://arxiv.org/pdf/2312.02515)]|
+|2025|MoRA: High-Rank Updating for Parameter-Efﬁcient Fine-Tuning|MoRA|arXiv|[[PDF](https://arxiv.org/pdf/2405.12130)][[CODE](https://github.com/kongds/MoRA)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
