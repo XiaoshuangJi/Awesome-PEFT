@@ -108,7 +108,9 @@
 |2025|KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models|KaSA|ICLR|[[PDF](https://openreview.net/pdf?id=OQqNieeivq)][[CODE](https://github.com/juyongjiang/KaSA)]|
 |2025|GeoLoRA: Geometric integration for parameter efficient fine-tuning|GeoLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=bsFWJ0Kget)][[CODE](https://github.com/ScSteffen/Publication-GeoLoRA-Geometric-integration-for-parameter-efficient-fine-tuning)]|
 |2025|SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning|SD-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=5U1rlpX68A)][[CODE](https://github.com/WuYichen-97/SD-Lora-CL)]|
+|2025|RandLoRA: Full-rank parameter-efficient fine-tuning of large models|RandLoRA|ICLR|[[PDF](https://arxiv.org/pdf/2502.00987)][[CODE](https://github.com/PaulAlbert31/RandLoRA)]|
 |2025|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL|[[PDF](https://arxiv.org/pdf/2502.13604)]|
+|2025|Parameter-Efficient Fine-Tuning via Circular Convolution|$C^3A$|ACL|[[PDF](https://arxiv.org/pdf/2407.19342)]|
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |2025|LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
 |2025|Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment|GOAT|ICML|[[PDF](https://arxiv.org/pdf/2502.16894)][[CODE](https://github.com/Facico/GOAT-PEFT)]|
@@ -124,6 +126,7 @@
 |2025|RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts|RepLoRA|ICML|[[PDF](https://openreview.net/pdf?id=Sg8ZqQ9J6W)]|
 |2025|mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs|mLoRA|VLDB|[[PDF](https://arxiv.org/pdf/2312.02515)]|
 |2025|MoRA: High-Rank Updating for Parameter-Efﬁcient Fine-Tuning|MoRA|arXiv|[[PDF](https://arxiv.org/pdf/2405.12130)][[CODE](https://github.com/kongds/MoRA)]|
+|2025|Balancing LoRA Performance and Efficiency with Simple Shard Sharing|MiSS|arXiv|[[PDF](https://arxiv.org/pdf/2409.15371)][[CODE](https://github.com/JL-er/MiSS)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
