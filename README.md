@@ -67,6 +67,7 @@
 |2024|Parameter-Efficient Fine-Tuning with Discrete Fourier Transform|FourierFT|ICML|[[PDF](https://arxiv.org/pdf/2405.03003)][[CODE](https://github.com/Chaos96/fourierft)]|
 |2024|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |2024|HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning|HydraLoRA|NeurIPS|[[PDF](https://openreview.net/pdf?id=qEpi8uWX3N)][[CODE](https://github.com/Clin0212/HydraLoRA)]|
+|2024|Sparse High Rank Adapters|SHiRA|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.13175)]|
 |2024|S2FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity|S2FT|NeurIPS|[[PUB](https://infini-ai-lab.github.io/S2FT-Page/)]|
 |2024|LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning|LISA|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/687163285b8affc8ee933bdca8e75747-Paper-Conference.pdf)]|
 |2024|DropBP: Accelerating Fine-Tuning of Large Language Models by Dropping Backward Propagation|DropBP|NeurIPS|[[PDF](https://openreview.net/pdf?id=x4EoTQW7ka)][[CODE](https://github.com/WooSunghyeon/dropbp)]|
