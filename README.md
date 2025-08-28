@@ -1,7 +1,7 @@
 # Awesome-PEFT
 ### Papers
 |Year|Paper Title|Proposed Method|Venue|Materials|
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|------------------------------|------------------------------|------------------------------|------------------------------|-----------------------------------------------|
 |2019|Parameter-Efficient Transfer Learning for NLP|Adapter tuning|ICML|[[PUB](https://proceedings.mlr.press/v97/houlsby19a.html)][[CODE](https://github.com/google-research/adapter-bert)]|
 |2019|Simple, Scalable Adaptation for Neural Machine Translation|Single Adapter|EMNLP|[[PUB](https://aclanthology.org/D19-1165/)]|
 |2020|Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning|VLM|EMNLP Findings|[[PUB](https://aclanthology.org/2020.findings-emnlp.41/)]|
@@ -24,7 +24,7 @@
 |2022|Exploring universal intrinsic task subspace via prompt tuning|IPT|EMNLP Finding|[[PDF](https://arxiv.org/pdf/2110.07867)][[CODE](https://github.com/thunlp/Intrinsic-Prompt-Tuning)]|
 |2022|Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning|(IA)<SUP>3<SUP/>|NeurIPS|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html)][[CODE](https://github.com/r-three/t-few)]|
 |2022|LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning|LST|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/54801e196796134a2b0ae5e8adef502f-Paper-Conference.pdf)]|
-|2023|Sparse Low-rank Adaptation of Pre-trained Language Models|SoRA|EMNLP|[[PDF](https://aclanthology.org/2023.emnlp-main.252.pdf)|
+|2023|Sparse Low-rank Adaptation of Pre-trained Language Models|SoRA|EMNLP|[[PDF](https://aclanthology.org/2023.emnlp-main.252.pdf)]|
 |2023|DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation|DyLoRA|EACL|[[PDF](https://aclanthology.org/2023.eacl-main.239.pdf)][[CODE](https://github.com/huawei-noah/Efficient-NLP/tree/main/DyLoRA)]|
 |2023|Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
 |2023|Parameter-efficient fine-tuning design spaces|S4|ICLR|[[PDF](https://openreview.net/pdf?id=XSRSWxyJIC)]|
@@ -76,6 +76,7 @@
 |2024|PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models|PiSSA|NeurIPS|[[PDF](https://arxiv.org/pdf/2404.02948)][[CODE](https://github.com/GraphPKU/PiSSA)]|
 |2024|CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning|CorDA|NeurIPS|[[PDF](https://openreview.net/pdf?id=Gi00NVru6n)][[CODE](https://github.com/iboing/CorDA)]|
 |2024|ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
+|2024|BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models|BLoB|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.11675)][[CODE](https://arxiv.org/pdf/2406.11675)]|
 |2024|LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/62c4718cc334f6a0a62fb81c4a2095a1-Paper-Conference.pdf)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |2024|One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |2024|SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
@@ -153,9 +154,9 @@
 |2024|Batched Low-Rank Adaptation of Foundation Models|Fast LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=w4abltTZ2f)]|
 |2024|Improving LoRA in Privacy-preserving Federated Learning|FFA-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=NLPzL6HWNl)]|
 |2024|FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences|FwdLLM|USENIX ATC|[[PUB](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)]|
-|2024|Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ZO-LLM|ICML|[[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
+|2024|Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark|ZO-LLM|ICML|[[PUB](https://sites.google.com/view/zo-tutorial-aaai-2024/)][[PDF](https://arxiv.org/pdf/2402.11592)][[CODE](https://github.com/ZO-Bench/ZO-LLM)]|
 |2024|Mixture-of-LoRAs: An Efficient Multitask Tuning Method for Large Language Models|MoA|LREC-COLING|[[PDF](https://aclanthology.org/2024.lrec-main.994.pdf)]|
-|2024|Higher layers need more LoRA experts|MoLA|arXiv|[[PDF](https://arxiv.org/pdf/2402.08562)][[[CODE](https://github.com/GCYZSL/MoLA)]|
+|2024|Higher layers need more LoRA experts|MoLA|arXiv|[[PDF](https://arxiv.org/pdf/2402.08562)][[CODE](https://github.com/GCYZSL/MoLA)]|
 |2024|LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs|LLaVA-MoLE|arXiv|[[PDF](https://arxiv.org/pdf/2401.16160)]|
 |2024|FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition|FeDeRA|arXiv|[[PDF](https://arxiv.org/pdf/2404.18848)]|
 |2025|Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning|DP-LoRA|ACM TMIS|[[PDF](https://dl.acm.org/doi/pdf/10.1145/3682068)]|
