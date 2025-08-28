@@ -58,7 +58,7 @@
 |2024|Bayesian Low-rank Adaptation for Large Language Models|Laplace-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=FJiUyzOF1m)]|
 |2024|Navigating Text-To-Image Customization: From LyCORIS Fine-Tuning to Model Evaluation|LyCORIS|ICLR|[[PDF](https://arxiv.org/pdf/2309.14859)][[CODE](https://github.com/KohakuBlueleaf/LyCORIS)]|
 |2024|QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models|QA-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=WvFoJccpo8)][[CODE](https://github.com/yuhuixu1993/qa-lora)]|
-|2024|LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE]](https://github.com/yxli2123/LoftQ)|
+|2024|LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models|LoftQ|ICLR|[[PDF](https://openreview.net/pdf?id=LzPWWPAdY4)][[CODE](https://github.com/yxli2123/LoftQ)]|
 |2024|ReLoRA: High-Rank Training Through Low-Rank Updates|ReLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=DLJznSp6X3)][[CODE](https://github.com/guitaricet/relora)]|
 |2024|ApiQ: Finetuning of 2-Bit Quantized Large Language Model|ApiQ|EMNLP|[[PDF](https://aclanthology.org/2024.emnlp-main.1168.pdf)][[CODE](https://github.com/BaohaoLiao/ApiQ)]|
 |2024|DoRA: Weight-Decomposed Low-Rank Adaptation|DoRA|ICML|[[PDF](https://openreview.net/pdf?id=3d5CIRG1n2)][[CODE](https://github.com/NVlabs/DoRA)]|
