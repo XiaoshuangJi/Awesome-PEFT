@@ -77,6 +77,7 @@
 |2024|CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning|CorDA|NeurIPS|[[PDF](https://openreview.net/pdf?id=Gi00NVru6n)][[CODE](https://github.com/iboing/CorDA)]|
 |2024|ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 |2024|BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models|BLoB|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.11675)][[CODE](https://arxiv.org/pdf/2406.11675)]|
+|2024|Spectral Adapter: Fine-Tuning in Spectral Space|Spectral adapter|NeurIPS|[[PDF](https://openreview.net/pdf?id=UoxuaOGV6B)][[CODE](https://github.com/pilancilab/spectral_adapter)]|
 |2024|LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/62c4718cc334f6a0a62fb81c4a2095a1-Paper-Conference.pdf)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |2024|One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |2024|SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
@@ -86,6 +87,7 @@
 |2024|LoRA-SP: streamlined partial parameter adaptation for resource efficient fine-tuning of large language models|LoRA-SP|AMNA|[[PUB](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13171/131711Z/LoRA-SP--streamlined-partial-parameter-adaptation-for-resource-efficient/10.1117/12.3032013.short)]|
 |2024|S-LoRA: Serving Thousands of Concurrent LoRA Adapters|S-LoRA|MLSys|[[PDF](https://arxiv.org/pdf/2311.03285)][[CODE](https://github.com/S-LoRA/S-LoRA)]|
 |2024|Punica: Multi-Tenant LoRA Serving|Punica|MLSys|[[PDF](https://proceedings.mlsys.org/paper_files/paper/2024/file/054de805fcceb78a201f5e9d53c85908-Paper-Conference.pdf)][[CODE](https://github.com/punica-ai/punica)]|
+|2024|WGLora:Efficient fine-tuning method integrating weights and gradient low-rank adaptation|BiLoRA|ICBNN|[[PUB](https://dl.acm.org/doi/abs/10.1145/3688636.3688654)]|
 |2024|BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models|BiLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2403.13037)]|
 |2024|LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters|LoRA-XS|arXiv|[[PDF](https://arxiv.org/pdf/2405.17604)][[CODE](https://github.com/MohammadrezaBanaei/LoRA-XS)]|
 |2024|CaraServe: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference|CaraServe|arXiv|[[PDF](https://arxiv.org/pdf/2401.11240)]|
