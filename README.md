@@ -65,7 +65,7 @@
 |2024|RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation|RoSA|ICML|[[PDF](https://openreview.net/pdf?id=FYvpxyS43U)][[CODE](https://github.com/IST-DASLab/RoSA)]|
 |2024|LoRA+: Efficient Low Rank Adaptation of Large Models|LoRA+|ICML|[[PDF](https://openreview.net/pdf?id=NEv8YqBROO)][[CODE](https://github.com/nikhil-ghosh-berkeley/loraplus)]|
 |2024|Parameter-Efficient Fine-Tuning with Discrete Fourier Transform|FourierFT|ICML|[[PDF](https://arxiv.org/pdf/2405.03003)][[CODE](https://github.com/Chaos96/fourierft)]|
-|2024|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML|[[PDF](https://arxiv.org/pdf/2401.04151)]|
+|2024|Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning|COLA|ICML Workshop|[[PDF](https://arxiv.org/pdf/2401.04151)]|
 |2024|HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning|HydraLoRA|NeurIPS|[[PDF](https://openreview.net/pdf?id=qEpi8uWX3N)][[CODE](https://github.com/Clin0212/HydraLoRA)]|
 |2024|Sparse High Rank Adapters|SHiRA|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.13175)]|
 |2024|S2FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity|S2FT|NeurIPS|[[PUB](https://infini-ai-lab.github.io/S2FT-Page/)]|
