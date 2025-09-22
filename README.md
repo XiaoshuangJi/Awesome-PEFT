@@ -146,6 +146,7 @@
 |2023|SiRA: sparse mixture of low rank adaptation|SiRA|arXiv|[[PDF](https://arxiv.org/pdf/2311.09179)]|
 |2024|Mixture-of-Subspaces in Low-Rank Adaptation|MoSLoRA|EMNLP|[[PDF](https://aclanthology.org/2024.emnlp-main.450.pdf)]|
 |2024|Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models|HETLoRA|EMNLP|[[PDF](https://aclanthology.org/2024.emnlp-main.717.pdf)]|
+|2024|AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality|AlphaLoRA|EMNLP|[[PDF](https://arxiv.org/pdf/2410.10054)][[CODE](https://github.com/peijunallin/alphalora)]|
 |2024|MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning|MTLoRA|CVPR|[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Agiza_MTLoRA_Low-Rank_Adaptation_Approach_for_Efficient_Multi-Task_Learning_CVPR_2024_paper.pdf)]|
 |2024|Multi-Task Dense Prediction via Mixture of Low-Rank Experts|MLoRE|CVPR|[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Multi-Task_Dense_Prediction_via_Mixture_of_Low-Rank_Experts_CVPR_2024_paper.pdf)]|
 |2024|LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|LoraHub|COLM|[[PDF](https://arxiv.org/pdf/2307.13269)][[CODE](https://github.com/sail-sg/lorahub)]|
