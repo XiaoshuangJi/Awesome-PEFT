@@ -130,6 +130,7 @@
 |2025|mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs|mLoRA|VLDB|[[PDF](https://arxiv.org/pdf/2312.02515)]|
 |2025|MoRA: High-Rank Updating for Parameter-Efﬁcient Fine-Tuning|MoRA|arXiv|[[PDF](https://arxiv.org/pdf/2405.12130)][[CODE](https://github.com/kongds/MoRA)]|
 |2025|Balancing LoRA Performance and Efficiency with Simple Shard Sharing|MiSS|arXiv|[[PDF](https://arxiv.org/pdf/2409.15371)][[CODE](https://github.com/JL-er/MiSS)]|
+|2026|LoRAFusion: Efficient LoRA Fine-Tuning for LLMs|LoRAFusion|EuroSys|[[PDF](https://arxiv.org/pdf/2510.00206)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
