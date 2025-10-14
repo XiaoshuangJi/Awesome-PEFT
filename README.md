@@ -145,6 +145,7 @@
 |2023|PrivateLoRA For Efficient Privacy Preserving LLM|PrivateLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2311.14030)]|
 |2023|pFedLoRA: Model-Heterogeneous Personalized Federated Learning with LoRA Tuning|pFedLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2310.13283)]|
 |2023|SiRA: sparse mixture of low rank adaptation|SiRA|arXiv|[[PDF](https://arxiv.org/pdf/2311.09179)]|
+|2024|LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin|LoRAMoE|ACL|[[PDF](https://aclanthology.org/2024.acl-long.106.pdf)][[CODE](https://github.com/Ablustrund/LoRAMoE)]|
 |2024|Mixture-of-Subspaces in Low-Rank Adaptation|MoSLoRA|EMNLP|[[PDF](https://aclanthology.org/2024.emnlp-main.450.pdf)]|
 |2024|Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models|HETLoRA|EMNLP|[[PDF](https://aclanthology.org/2024.emnlp-main.717.pdf)]|
 |2024|AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality|AlphaLoRA|EMNLP|[[PDF](https://arxiv.org/pdf/2410.10054)][[CODE](https://github.com/peijunallin/alphalora)]|
