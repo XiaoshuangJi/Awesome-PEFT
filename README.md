@@ -112,7 +112,10 @@
 |2025|GeoLoRA: Geometric integration for parameter efficient fine-tuning|GeoLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=bsFWJ0Kget)][[CODE](https://github.com/ScSteffen/Publication-GeoLoRA-Geometric-integration-for-parameter-efficient-fine-tuning)]|
 |2025|SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning|SD-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=5U1rlpX68A)][[CODE](https://github.com/WuYichen-97/SD-Lora-CL)]|
 |2025|RandLoRA: Full-rank parameter-efficient fine-tuning of large models|RandLoRA|ICLR|[[PDF](https://arxiv.org/pdf/2502.00987)][[CODE](https://github.com/PaulAlbert31/RandLoRA)]|
-|2025|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL|[[PDF](https://arxiv.org/pdf/2502.13604)]|
+|2025|BeamLoRA: Beam-Constraint Low-Rank Adaptation|BeamLoRA|ACL|[[PDF](https://arxiv.org/pdf/2502.13604)][[CODE](https://github.com/gccnlp/BeamLoRA)]|
+|2025|TeamLoRA:BoostingLow-RankAdaptation with Expert Collaboration and Competition|TeamLoRA|ACL|[[PDF](https://aclanthology.org/2025.acl-long.669.pdf)][[CODE](https://github.com/DCDmllm/TeamLoRA)]|
+|2025|MLAS-LoRA: Language-Aware Parameters Detection and LoRA-Based Knowledge Transfer for Multilingual Machine Translation|MLAS-LoRA|ACL|[[PDF](https://aclanthology.org/2025.acl-long.762.pdf)]|
+|2025|MobiLoRA: Accelerating LoRA-based LLM Inference on Mobile Devices via Context-aware KV Cache Optimization|MobiLoRA|ACL|[[PDF](https://aclanthology.org/2025.acl-long.1140.pdf)]|
 |2025|Parameter-Efficient Fine-Tuning via Circular Convolution|$C^3A$|ACL|[[PDF](https://arxiv.org/pdf/2407.19342)]|
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |2025|LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
