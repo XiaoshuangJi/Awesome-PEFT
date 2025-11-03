@@ -42,8 +42,9 @@
 |2023|IncreLoRA: Incremental Parameter Allocation Method for Parameter-Efficient Fine-tuning|IncreLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2308.12043)][[CODE](https://github.com/FeiyuZhang98/IncreLoRA)]|
 |2024|MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
 |2024|Multimodal Instruction Tuning with Conditional Mixture of LoRA|MixLoRA|ACL|[[PDF](https://aclanthology.org/2024.acl-long.38.pdf)]|
+|2024|MELoRA:Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning|MELoRA|ACL|[[PDF](https://arxiv.org/pdf/2402.17263)][[CODE](https://github.com/ChasonShi/MELoRA)]|
+|2024|LoRA-Flow: Dynamic LoRA Fusion for Large Language Models in Generative Tasks|LoRA-Flow|ACL|[[PDF](https://arxiv.org/pdf/2402.11455)]|
 |2024|DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution|DoRA|ACL|[[PDF](https://aclanthology.org/2024.acl-long.626.pdf)][[CODE](https://github.com/MIkumikumi0116/DoRA)]|
-|2024|MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning|MELoRA|ACL|[[PDF](https://aclanthology.org/2024.acl-long.168.pdf)]|
 |2024|AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models|AFLoRA|ACL|[[PDF](https://aclanthology.org/2024.acl-short.16.pdf)]|
 |2024|ResLoRA: Identity Residual Mapping in Low-Rank Adaption|ResLoRA|ACL Finding|[[PDF](https://aclanthology.org/2024.findings-acl.525.pdf)][[CODE](https://github.com/microsoft/LMOps/tree/main/reslora)]|
 |2024|SIBO: A Simple Booster for Parameter-Efficient Fine-Tuning|SIBO|ACL Finding|[[PDF](https://aclanthology.org/2024.findings-acl.72.pdf)]|
