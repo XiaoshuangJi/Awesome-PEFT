@@ -117,6 +117,8 @@
 |2025|MLAS-LoRA: Language-Aware Parameters Detection and LoRA-Based Knowledge Transfer for Multilingual Machine Translation|MLAS-LoRA|ACL|[[PDF](https://aclanthology.org/2025.acl-long.762.pdf)]|
 |2025|MobiLoRA: Accelerating LoRA-based LLM Inference on Mobile Devices via Context-aware KV Cache Optimization|MobiLoRA|ACL|[[PDF](https://aclanthology.org/2025.acl-long.1140.pdf)]|
 |2025|Parameter-Efficient Fine-Tuning via Circular Convolution|$C^3A$|ACL|[[PDF](https://arxiv.org/pdf/2407.19342)]|
+|2025|DenseLoRA: Dense Low-Rank Adaptation of Large Language Models|DenseLoRA|ACL|[[PDF](https://arxiv.org/pdf/2505.23808)][[CODE](https://arxiv.org/pdf/2505.23808)]|
+|2025|TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models|TableLoRA|ACL|[[PDF](https://arxiv.org/pdf/2503.04396)][[CODE](https://github.com/microsoft/TableLoRA)]|
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |2025|LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
 |2025|Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment|GOAT|ICML|[[PDF](https://arxiv.org/pdf/2502.16894)][[CODE](https://github.com/Facico/GOAT-PEFT)]|
