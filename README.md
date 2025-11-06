@@ -40,6 +40,7 @@
 |2023|LoRA-FA: Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning|LoRA-FA|arXiv|[[PDF](https://arxiv.org/pdf/2308.03303)]|
 |2023|A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA|rsLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2312.03732)]|
 |2023|IncreLoRA: Incremental Parameter Allocation Method for Parameter-Efficient Fine-tuning|IncreLoRA|arXiv|[[PDF](https://arxiv.org/pdf/2308.12043)][[CODE](https://github.com/FeiyuZhang98/IncreLoRA)]|
+|2024|VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding|VMT-Adapter|AAAI|[[PDF](https://arxiv.org/pdf/2312.08733v1)]|
 |2024|MEFT:Memory-Efficient Fine-Tuning through Sparse Adapter|MEFT|ACL|[[PDF](https://arxiv.org/pdf/2406.04984)][[CODE](https://github.com/CURRENTF/MEFT)]|
 |2024|Multimodal Instruction Tuning with Conditional Mixture of LoRA|MixLoRA|ACL|[[PDF](https://aclanthology.org/2024.acl-long.38.pdf)]|
 |2024|MELoRA:Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning|MELoRA|ACL|[[PDF](https://arxiv.org/pdf/2402.17263)][[CODE](https://github.com/ChasonShi/MELoRA)]|
