@@ -80,6 +80,7 @@
 |2024|ReFT: Representation Finetuning for Language Models|ReFT|NeurIPS|[[PDF](https://arxiv.org/pdf/2404.03592)][[CODE](https://github.com/stanfordnlp/pyreft)]|
 |2024|BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models|BLoB|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.11675)][[CODE](https://arxiv.org/pdf/2406.11675)]|
 |2024|Spectral Adapter: Fine-Tuning in Spectral Space|Spectral adapter|NeurIPS|[[PDF](https://openreview.net/pdf?id=UoxuaOGV6B)][[CODE](https://github.com/pilancilab/spectral_adapter)]|
+|2024|3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability|RoAd|NeurIPS|[[PDF](https://arxiv.org/pdf/2409.00119)][[CODE](https://github.com/BaohaoLiao/road)]|
 |2024|LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/62c4718cc334f6a0a62fb81c4a2095a1-Paper-Conference.pdf)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |2024|One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |2024|SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
@@ -109,6 +110,7 @@
 |2025|HMoRA: Making LLMs More Effective with Hierarchical Mixture of LoRA Experts|HMoRA|ICLR|[[PDF](https://openreview.net/pdf?id=lTkHiXeuDl)][[CODE](https://github.com/LiaoMengqi/HMoRA)]|
 |2025|LoCA: Location-Aware Cosine Adaptation for Parameter-Efficient Fine-Tuning|LoCA|ICLR|[[PDF](https://openreview.net/pdf?id=4NRjdISWby)]|
 |2025|MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models|MeteoRA|ICLR|[[PDF](https://openreview.net/pdf?id=yOOJwR15xg)]|
+|2025|DeLoRA: Decoupling Angles and Strength in Low-rank Adaptation|DeLoRA|ICLR|[[PDF](https://arxiv.org/pdf/2503.18225)][[CODE](https://github.com/ExplainableML/DeLoRA)]|
 |2025|Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering|LoRA-LEGO|ICLR|[[PDF](https://openreview.net/pdf?id=j6fsbpAllN)]|
 |2025|KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models|KaSA|ICLR|[[PDF](https://openreview.net/pdf?id=OQqNieeivq)][[CODE](https://github.com/juyongjiang/KaSA)]|
 |2025|GeoLoRA: Geometric integration for parameter efficient fine-tuning|GeoLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=bsFWJ0Kget)][[CODE](https://github.com/ScSteffen/Publication-GeoLoRA-Geometric-integration-for-parameter-efficient-fine-tuning)]|
@@ -135,6 +137,7 @@
 |2025|LoRA-Gen: Specializing Large Language Model via Online LoRA Generation|LoRA-Gen|ICML|[[PDF](https://openreview.net/pdf?id=oZM5g4IvmS)]|
 |2025|RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts|RepLoRA|ICML|[[PDF](https://openreview.net/pdf?id=Sg8ZqQ9J6W)]|
 |2025|mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs|mLoRA|VLDB|[[PDF](https://arxiv.org/pdf/2312.02515)]|
+|2025|Activated LoRA: Fine-tuned LLMs for Intrinsics|ALoRA|NeurIPS|[[PDF](https://arxiv.org/pdf/2504.12397)]|
 |2025|MoRA: High-Rank Updating for Parameter-Efﬁcient Fine-Tuning|MoRA|arXiv|[[PDF](https://arxiv.org/pdf/2405.12130)][[CODE](https://github.com/kongds/MoRA)]|
 |2025|Balancing LoRA Performance and Efficiency with Simple Shard Sharing|MiSS|arXiv|[[PDF](https://arxiv.org/pdf/2409.15371)][[CODE](https://github.com/JL-er/MiSS)]|
 |2026|LoRAFusion: Efficient LoRA Fine-Tuning for LLMs|LoRAFusion|EuroSys|[[PDF](https://arxiv.org/pdf/2510.00206)]|
