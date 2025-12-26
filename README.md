@@ -24,6 +24,7 @@
 |2022|Exploring universal intrinsic task subspace via prompt tuning|IPT|EMNLP Finding|[[PDF](https://arxiv.org/pdf/2110.07867)][[CODE](https://github.com/thunlp/Intrinsic-Prompt-Tuning)]|
 |2022|Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning|(IA)<SUP>3<SUP/>|NeurIPS|[[PUB](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html)][[CODE](https://github.com/r-three/t-few)]|
 |2022|LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning|LST|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/54801e196796134a2b0ae5e8adef502f-Paper-Conference.pdf)]|
+|2023|HiFi: High-Information Attention Heads Hold for Parameter-Efficient Model Adaptation|HiFi|ACL|[[PDF](https://aclanthology.org/2023.acl-long.475.pdf)]|
 |2023|Sparse Low-rank Adaptation of Pre-trained Language Models|SoRA|EMNLP|[[PDF](https://aclanthology.org/2023.emnlp-main.252.pdf)]|
 |2023|DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation|DyLoRA|EACL|[[PDF](https://aclanthology.org/2023.eacl-main.239.pdf)][[CODE](https://github.com/huawei-noah/Efficient-NLP/tree/main/DyLoRA)]|
 |2023|Adaptive budget allocation for parameter-efficient fine-tuning|AdaLoRA|ICLR|[[PDF](https://par.nsf.gov/servlets/purl/10471451)][[CODE](https://github.com/QingruZhang/AdaLoRA)]|
