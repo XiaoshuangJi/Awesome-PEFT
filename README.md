@@ -85,6 +85,7 @@
 |2024|One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |2024|SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
 |2024|ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models|ALoRA|NAACL|[[PDF](https://aclanthology.org/2024.naacl-long.35.pdf)]|
+|2024|Tied-LoRA: Enhancing parameter efficiency of LoRA with Weight Tying|Tied-LoRA|NAACL|[[PDF](https://aclanthology.org/2024.naacl-long.481.pdf)]|
 |2024|AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning|AutoLoRA|NAACL|[[PDF](https://aclanthology.org/2024.naacl-long.282.pdf)][[CODE](https://github.com/ruz048/AutoLoRA)]|
 |2024|X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design|X-LoRA|APL Machine Learning|[[PUB](https://pubs.aip.org/aip/aml/article/2/2/026119/3294581/X-LoRA-Mixture-of-low-rank-adapter-experts-a)][[PDF](https://arxiv.org/pdf/2402.07148)]|
 |2024|LoRA-SP: streamlined partial parameter adaptation for resource efficient fine-tuning of large language models|LoRA-SP|AMNA|[[PUB](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13171/131711Z/LoRA-SP--streamlined-partial-parameter-adaptation-for-resource-efficient/10.1117/12.3032013.short)]|
