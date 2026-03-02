@@ -82,6 +82,7 @@
 |2024|BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models|BLoB|NeurIPS|[[PDF](https://arxiv.org/pdf/2406.11675)][[CODE](https://arxiv.org/pdf/2406.11675)]|
 |2024|Spectral Adapter: Fine-Tuning in Spectral Space|Spectral adapter|NeurIPS|[[PDF](https://openreview.net/pdf?id=UoxuaOGV6B)][[CODE](https://github.com/pilancilab/spectral_adapter)]|
 |2024|3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability|RoAd|NeurIPS|[[PDF](https://arxiv.org/pdf/2409.00119)][[CODE](https://github.com/BaohaoLiao/road)]|
+|2024|Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation|HRA|NeurIPS|[[PDF](https://arxiv.org/pdf/2405.17484)][[CODE](https://github.com/huggingface/peft)]|
 |2024|LoRA-GA: Low-Rank Adaptation with Gradient Approximation|LoRA-GA|NeurIPS|[[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/62c4718cc334f6a0a62fb81c4a2095a1-Paper-Conference.pdf)][[CODE](https://github.com/Outsider565/LoRA-GA)]|
 |2024|One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation|EVA|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=X6AOzi82oo)]|
 |2024|SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors|SVFT|NeurIPS Workshop|[[PDF](https://openreview.net/pdf?id=DOUskwCqg5)]|
@@ -125,6 +126,7 @@
 |2025|Parameter-Efficient Fine-Tuning via Circular Convolution|$C^3A$|ACL|[[PDF](https://arxiv.org/pdf/2407.19342)]|
 |2025|DenseLoRA: Dense Low-Rank Adaptation of Large Language Models|DenseLoRA|ACL|[[PDF](https://arxiv.org/pdf/2505.23808)][[CODE](https://arxiv.org/pdf/2505.23808)]|
 |2025|TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models|TableLoRA|ACL|[[PDF](https://arxiv.org/pdf/2503.04396)][[CODE](https://github.com/microsoft/TableLoRA)]|
+|2025|RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates|RoCoFT|ACL|[[PDF](https://aclanthology.org/2025.acl-long.1293.pdf)][[CODE](https://github.com/Kowsher/RoCoFT)]|
 |2025|LoRMA: Low-Rank Multiplicative Adaptation for LLMs|LoRMA|ACL Findings|[[PDF](https://arxiv.org/pdf/2506.07621)][[CODE](https://github.com/Exploration-Lab/LoRMA)]|
 |2025|LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation|LoRA-drop|COLING|[[PDF](https://aclanthology.org/2025.coling-main.371.pdf)]|
 |2025|Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment|GOAT|ICML|[[PDF](https://arxiv.org/pdf/2502.16894)][[CODE](https://github.com/Facico/GOAT-PEFT)]|
