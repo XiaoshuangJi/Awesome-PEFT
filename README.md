@@ -108,6 +108,7 @@
 |2025|Quantum-PEFT: Ultra parameter-efficient fine-tuning|Quantum-PEFT|ICLR|[[PDF](https://openreview.net/pdf?id=dgR6i4TSng)]|
 |2025|SMT: Fine-Tuning Large Language Models with Sparse Matrices|SMT|ICLR|[[PDF](https://openreview.net/pdf?id=GbgCRJedQ7)]|
 |2025|RandLoRA: Full rank parameter-efficient fine-tuning of large models|RandLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=Hn5eoTunHN)]|
+|2025|DeLoRA: Decoupling Angles and Strength in Low-rank Adaptation|DeLoRA|ICLR|[[PDF](https://arxiv.org/pdf/2503.18225)][[CODE](https://github.com/ExplainableML/DeLoRA)]|
 |2025|SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation|SaLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=GOoVzE9nSj)][[CODE](https://github.com/homles11/SaLoRA)]|
 |2025|PaCA: Partial Connection Adaptation for Efficient Fine-Tuning|PaCA|ICLR|[[PDF](https://openreview.net/pdf?id=iYkhxre0In)][[CODE](https://github.com/WooSunghyeon/paca)]|
 |2025|HMoRA: Making LLMs More Effective with Hierarchical Mixture of LoRA Experts|HMoRA|ICLR|[[PDF](https://openreview.net/pdf?id=lTkHiXeuDl)][[CODE](https://github.com/LiaoMengqi/HMoRA)]|
