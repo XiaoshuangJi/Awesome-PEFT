@@ -148,6 +148,17 @@
 |2026|LoRAFusion: Efficient LoRA Fine-Tuning for LLMs|LoRAFusion|EuroSys|[[PDF](https://arxiv.org/pdf/2510.00206)][[CODE](https://github.com/CentML/lorafusion)]|
 |2026|RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models|RoSA|AAAI|[[PDF](https://arxiv.org/pdf/2511.21733)][[CODE](https://github.com/Applied-Machine-Learning-Lab/RoSA)]|
 |2026|GateRA: Token-Aware Modulation for Parameter-Efficient Fine-Tuning|GateRA|AAAI|[[PDF](https://arxiv.org/pdf/2511.17582)]|
+|2026|LoRA-S: An Efficient Low Rank Adaptation scheme via Sylvester equation|LoRA-S|ICLR|[[[PDF](https://openreview.net/pdf?id=Guo2XGgxZA)][[CODE](https://gitee.com/sanjin998/lora_s)]|
+|2026|E²LoRA: Efficient and Effective Low-Rank Adaptation with Entropy-Guided Adaptive Sharing|E²LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=IQttyo0460)]|
+|2026|Bi-LoRA: Efficient Sharpness-Aware Minimization for Fine-Tuning Large-Scale Models|Bi-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=zoYPlgX1bH)][[CODE](https://github.com/CrazyElements/Bi-LoRA)]|
+|2026|BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity|BoRA|ICLR|[[PDF](https://openreview.net/pdf?id=eUMJXFgMjM)]|
+|2026|BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models|BA-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=q0X9SiXiRO)]|
+|2026|IGU-LoRA: Adaptive Rank Allocation via Integrated Gradients and Uncertainty-Aware Scoring|IGU-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=MnToYQx9My)][[CODE](https://github.com/withyou12/igulora)]|
+|2026|LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning|LoFT|ICLR|[[PDF](https://openreview.net/pdf?id=86P3sb1dpr)][[CODE](https://openreview.net/pdf?id=86P3sb1dpr)]|
+|2026|SumRA: Parameter Efficient Fine-tuning with Singular Value Decomposition and Summed Orthogonal Basis|SumRA|ICLR|[[PDF](https://openreview.net/pdf?id=v23Pqcm6qp)]|
+|2026|MoSA: Mosaic Shared Adaptation of Large Language Models|MoSA|ICLR|[[PDF](https://openreview.net/pdf?id=jg8JIKBAlb)]|
+|2026|PiCa: Parameter-Efficient Fine-Tuning with Column Space Projection|PiCa|ICLR|[[PDF](https://openreview.net/pdf?id=32G5SjCAMV)]|
+|2026|FlexLoRA: Entropy-Guided Flexible Low-Rank Adaptation|FlexLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=tqnkbdYWWm)]|
 
 ### PEFT with other techs
 |Year|Paper Title|Proposed Method|Venue and Year|Materials|
@@ -185,6 +196,7 @@
 |2025|Federated Residual Low-Rank Adaptation of Large Language Models|FRLoRA|ICLR|[[PDF](https://openreview.net/pdf?id=e0rQRMUhs7)]|
 |2025|A Stronger Mixture of Low-Rank Experts for Fine-Tuning Foundation Models|MoELoRA_Riemannian|ICML|[[PDF](https://openreview.net/pdf?id=yqyEUcGreT)][[CODE](https://github.com/THUDM/MoELoRA_Riemannian)]|
 |2025|IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models|IntLoRA|ICML|[[PDF](https://openreview.net/pdf?id=K3QoqobsiR)][[CODE](https://github.com/csguoh/IntLoRA)]|
+|2026|SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA|SHE-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=PWChrnrw7Z)][[CODE](https://github.com/liyan2015/SHE-LoRA)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
