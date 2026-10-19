@@ -197,6 +197,7 @@
 |2025|A Stronger Mixture of Low-Rank Experts for Fine-Tuning Foundation Models|MoELoRA_Riemannian|ICML|[[PDF](https://openreview.net/pdf?id=yqyEUcGreT)][[CODE](https://github.com/THUDM/MoELoRA_Riemannian)]|
 |2025|IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models|IntLoRA|ICML|[[PDF](https://openreview.net/pdf?id=K3QoqobsiR)][[CODE](https://github.com/csguoh/IntLoRA)]|
 |2026|SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA|SHE-LoRA|ICLR|[[PDF](https://openreview.net/pdf?id=PWChrnrw7Z)][[CODE](https://github.com/liyan2015/SHE-LoRA)]|
+|2026|SOLAR: Subspace-Oriented Lightweight Adapter Reparameterization for Scalable PEFT Compression|SOLAR|arXiv|[[PDF](https://arxiv.org/abs/2604.08368)][[CODE](https://github.com/mahmoudsajjadi/solar-peft)]|
 ### Libraries
 * AdapterHub:
   * Address: https://adapterhub.ml/
